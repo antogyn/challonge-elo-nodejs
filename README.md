@@ -27,6 +27,8 @@ challongeElo.getStats(config).then((stats) => {
 });
 ```
 
+[View the stats object](stats-example.json)
+
 ## API
 
 ### challongeElo.getStats(config)
