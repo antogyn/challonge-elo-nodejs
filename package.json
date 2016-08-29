@@ -1,0 +1,25 @@
+{
+  "name": "challonge-elo-nodejs",
+  "version": "0.0.1",
+  "description": "Get player rankings and elo from challonge tournaments",
+  "main": "index.js",
+  "keywords": [
+    "elo",
+    "ranking",
+    "challonge"
+  ],
+  "author": {
+    "name": "Anthony Giniers",
+    "email": "anthony.giniers@gmail.com"
+  },
+  "engines": {
+    "node": "6"
+  },
+  "dependencies": {
+    "elo-js": "1.0.1",
+    "moment": "2.14.1",
+    "ramda": "0.22.1",
+    "request": "2.74.0",
+    "request-promise": "4.1.1"
+  }
+}
