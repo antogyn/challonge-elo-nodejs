@@ -39,10 +39,6 @@ challongeElo.getStats(config).then((stats) => {
 
 Type: `array` of `tournament`
 
-Delay capturing the screenshot.
-
-Useful when the site does things after load that you want to capture.
-
 ##### tournament
 
 ###### api_key
