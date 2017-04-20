@@ -12,6 +12,10 @@
     "name": "Anthony Giniers",
     "email": "anthony.giniers@gmail.com"
   },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/antogyn/challonge-elo-nodejs.git"
+  },
   "engines": {
     "node": "6"
   },
