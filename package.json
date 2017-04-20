@@ -1,6 +1,6 @@
 {
   "name": "challonge-elo-nodejs",
-  "version": "0.0.1",
+  "version": "0.0.2",
   "description": "Get player rankings and elo from challonge tournaments",
   "main": "index.js",
   "keywords": [
